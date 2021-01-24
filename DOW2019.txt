@@ -1,0 +1,10 @@
+IBM,IBM,113.67,134.04
+XOM,ExxonMobil,68.19,69.78
+VZ,Verizon,56.22,61.40
+CVX,Chevron,108.79,120.51
+PFE,Pfizer,43.65,39.18
+KO,Coca-Cola,47.35,55.35
+JPM,JP Morgan Chase,97.62,139.40
+PG,Procter & Gamble,91.92,124.90
+CSCO,Cisco,43.33,47.61
+MRK,Merck,76.41,90.95
